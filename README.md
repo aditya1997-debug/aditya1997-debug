@@ -33,7 +33,7 @@ I am a **Performance-Driven Backend Developer** who transitioned from **Mechanic
 ### 🛠️ Tech Stack & Toolbox
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,js,nodejs,express,django,flask,mongodb,postgres,redis,git,postman,svg&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=py,js,nodejs,express,django,flask,mongodb,postgres,redis,git&theme=dark" />
 </p>
 
 * **Languages:** Python, JavaScript (ES6+), SQL
