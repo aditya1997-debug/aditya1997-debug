@@ -66,14 +66,6 @@ I am a **Performance-Driven Backend Developer** who transitioned from **Mechanic
 **Associate Software Engineer @ Augmented Transformations** *(Jan 2024 – June 2024)*
 > Improved API performance by **90%** for a client base of 100+. Automated data pipelines using Python, Selenium, and OpenCV.
 
----
-
-### 📈 GitHub Ecosystem
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aditya1997-debug&show_icons=true&theme=transparent&hide_border=true&title_color=0077B5&icon_color=0077B5&text_color=888" />
-</p>
-
----
 
 <div align="center">
   <p><i>"The goal isn't just to write code that works, but to build systems that last."</i></p>
