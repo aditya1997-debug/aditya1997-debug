@@ -41,16 +41,6 @@ I am a **Performance-Driven Backend Developer** who transitioned from **Mechanic
 
 ---
 
-### 📊 Quantified Impact
-| Area | Achievement | Tech Used |
-| :--- | :--- | :--- |
-| **Development Speed** | Built a **CRUD API Generator** that cut route/service creation time by **99%**. | Node.js, REST API |
-| **API Performance** | Refactored legacy queries to achieve up to **90% faster response times**. | MongoDB Indexing, SQL Opt. |
-| **Scalability** | Integrated **Redis Caching**, reducing database load and cutting latency by **65%**. | Redis, Express.js |
-| **Throughput** | Managed backend for systems handling **5,000+ monthly evaluations**. | Django, PostgreSQL |
-
----
-
 ### 🛠️ Tech Stack & Toolbox
 
 <p align="left">
