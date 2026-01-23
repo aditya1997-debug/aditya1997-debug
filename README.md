@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🚀 Aditya Dalvi</h1>
+  <h1>Namaste, I'm Aditya Dalvi</h1>
   <p><strong>Software Engineer</strong></p>
 
   <p>
