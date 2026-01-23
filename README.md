@@ -1,6 +1,6 @@
 <div align="center">
   <h1>🚀 Aditya Dalvi</h1>
-  <p><strong>Backend Engineer | Scalable Systems Architect | EdTech Specialist</strong></p>
+  <p><strong>Software Engineer</strong></p>
 
   <p>
     <a href="https://linkedin.com/in/aditya-dalvi-bkd1"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
