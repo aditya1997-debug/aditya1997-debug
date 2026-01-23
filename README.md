@@ -90,7 +90,7 @@ I am a **Performance-Driven Backend Developer** who transitioned from **Mechanic
 ---
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+  <!-- <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /> -->
   <br/><br/>
   <strong>Let's build something together.</strong>
 </div>
