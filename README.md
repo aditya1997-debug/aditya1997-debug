@@ -61,11 +61,13 @@ I am a **Performance-Driven Backend Developer** who transitioned from **Mechanic
 ### 💼 Career Snapshot
 
 **Backend Developer @ Myelin** *(Dec 2024 – Present)*
-> Leading the transition to highly scalable REST architectures. Implementing Role-Based Access Control (RBAC) and optimizing MongoDB schemas for high-growth EdTech products.
+> Architecting teacher-centric learning ecosystems compliant with NEP Policies.
 
 **Associate Software Engineer @ Augmented Transformations** *(Jan 2024 – June 2024)*
 > Improved API performance by **90%** for a client base of 100+. Automated data pipelines using Python, Selenium, and OpenCV.
 
+**Trainee @ Augmented Transformations** *(Feb 2023 – Oct 2023)*
+> Built examination engines handling 5,000+ monthly evaluations.
 
 ---
 
