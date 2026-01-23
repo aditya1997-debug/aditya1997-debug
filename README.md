@@ -67,7 +67,7 @@ I am a **Performance-Driven Backend Developer** who transitioned from **Mechanic
 > Improved API performance by **90%** for a client base of 100+. Automated data pipelines using Python, Selenium, and OpenCV.
 
 
-
+---
 
 
 <div align="center">
