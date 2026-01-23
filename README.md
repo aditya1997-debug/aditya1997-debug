@@ -18,9 +18,6 @@
     <img src="https://img.shields.io/badge/Website-Portfolio-00C2FF?style=for-the-badge&logo=google-chrome&logoColor=white">
   </a>
 </p>
-
-<img src="https://github-profile-trophy.vercel.app/?username=aditya1997-debug&theme=darkhub&no-frame=true&row=1&column=6"/>
-
 </div>
 
 ---
