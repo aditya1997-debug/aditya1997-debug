@@ -1,18 +1,27 @@
 <div align="center">
-  <h1>Namaste, I'm Aditya Dalvi</h1>
-  <p><strong>Backend Engineer</strong></p>
 
-  <p>
-    <a href="https://linkedin.com/in/aditya-dalvi-bkd1">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="mailto:adityadalvi157@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-    <a href="https://leetcode.com/u/adityadalvi8910/">
-      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-    </a>
-  </p>
+<img src="https://readme-typing-svg.demolab.com?font=Trebuchet+MS&weight=600&size=34&duration=3500&pause=800&color=00C2FF&center=true&vCenter=true&width=600&lines=Namaste%2C+I'm+Aditya+Dalvi;Backend+Engineer;Performance+Driven+Developer" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Backend%20Engineer-Animated-blue?style=for-the-badge&logo=serverfault&logoColor=white&labelColor=000000" />
+
+<br/><br/>
+
+<a href="https://linkedin.com/in/aditya-dalvi-bkd1">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="mailto:adityadalvi157@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+<a href="https://leetcode.com/u/adityadalvi8910/">
+  <img src="https://img.shields.io/badge/LeetCode-Solve-orange?style=for-the-badge&logo=leetcode&logoColor=black">
+</a>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=aditya1997-debug&theme=darkhub&no-frame=true&row=1&column=6"/>
+
 </div>
 
 ---
@@ -48,11 +57,6 @@ I am a **Performance-Driven Backend Developer** who transitioned from **Mechanic
   <img src="https://skillicons.dev/icons?i=py,js,nodejs,express,django,flask,mongodb,postgres,redis,git&theme=dark" />
 </p>
 
-* **Languages:** Python, JavaScript (ES6+), SQL
-* **Frameworks:** Node.js, Express, Django, Flask
-* **Databases:** MongoDB (NoSQL), PostgreSQL, Redis (Caching)
-* **Architecture:** RESTful APIs, Controller-Service-Repository Pattern, Microservices
-
 ---
 
 ### 📂 Strategic Projects
@@ -60,25 +64,25 @@ I am a **Performance-Driven Backend Developer** who transitioned from **Mechanic
 #### 🧑‍🏫 **mytri – Teacher’s Productivity Suite**
 *Architected a lesson planning system aligned with India's NEP 2020.*
 
-* **Problem:** Teachers spent hours on manual lesson planning and worksheet generation.
-* **Solution:** Built a Lesson Plan Creator with multimedia support and differentiated learning paths.
-* **Result:** Streamlined workflows for thousands of students across the Myelin ecosystem.
+* **Problem:** Teachers spent hours on manual lesson planning.
+* **Solution:** Automated lesson plans with multimedia & learning paths.
+* **Result:** Streamlined workflows across the Myelin ecosystem.
 
 #### 📊 **Holistic Progress Card (HPC)**
 *Built a competency-based evaluation engine using Bloom’s Taxonomy.*
 
-* **Key Feature:** Implemented complex **Predecessor Mapping** to ensure sequence-driven learning flows.
-* **Tech Highlight:** Authored comprehensive **Swagger/OpenAPI** documentation to ensure 0% friction between Frontend and Backend teams.
+* **Key Feature:** Complex **Predecessor Mapping**
+* **Tech Highlight:** Zero-friction **Swagger/OpenAPI** documentation
 
 ---
 
 ### 💼 Career Snapshot
 
 **Backend Developer @ Myelin** *(Dec 2024 – Present)*  
-> Architecting teacher-centric learning ecosystems compliant with NEP Policies.
+> Architecting teacher-centric learning ecosystems compliant with NEP policies.
 
 **Associate Software Engineer @ Augmented Transformations** *(Jan 2024 – June 2024)*  
-> Improved API performance by **90%** for a client base of 100+. Automated data pipelines using Python, Selenium, and OpenCV.
+> Improved API performance by **90%** for 100+ clients.
 
 **Trainee @ Augmented Transformations** *(Feb 2023 – Oct 2023)*  
 > Built examination engines handling 5,000+ monthly evaluations.
@@ -86,6 +90,7 @@ I am a **Performance-Driven Backend Developer** who transitioned from **Mechanic
 ---
 
 <div align="center">
-  <p><i>"The goal isn't just to write code that works, but to build systems that last."</i></p>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+  <br/><br/>
   <strong>Let's build something together.</strong>
 </div>
