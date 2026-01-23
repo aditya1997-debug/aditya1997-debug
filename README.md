@@ -21,8 +21,6 @@ I am a **Performance-Driven Backend Developer** who transitioned from **Mechanic
 ---
 
 ### 📊 Quantified Impact
-*Recruiters love data. Here is what I’ve delivered:*
-
 | Area | Achievement | Tech Used |
 | :--- | :--- | :--- |
 | **Development Speed** | Built a **CRUD API Generator** that cut route/service creation time by **99%**. | Node.js, Rest API |
