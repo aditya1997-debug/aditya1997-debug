@@ -48,5 +48,5 @@ Node.js, Express, MongoDB, PostgreSQL, Redis, JavaScript, Python, Django, Git, D
 ## Links
 - LinkedIn: https://linkedin.com/in/aditya-dalvi-bkd1  
 - Portfolio: https://aditya1997-debug.github.io/aditya8/  
-- Resume: *(add Google Drive / PDF link here)*  
-- Live Projects: https://mytrilearn.com/
+- Resume: (https://drive.google.com/drive/u/0/my-drive)  
+- Projects Worked On: MytriLearn(https://mytrilearn.com), Myelin(https://myelin.co.in/), Holistic Progress Card(https://myelin.co.in/holistic-progress-card/), VAS(https://augtrans.com/products/1)
