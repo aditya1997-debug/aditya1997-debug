@@ -54,4 +54,4 @@ Node.js, Express, MongoDB, PostgreSQL, Redis, JavaScript, Python, Django, Git, D
 ## Links
 - LinkedIn: https://linkedin.com/in/aditya-dalvi-bkd1  
 - Portfolio: https://aditya1997-debug.github.io/aditya8/  
-- Resume: (https://drive.google.com/drive/u/0/my-drive)
+- Resume: [(https://drive.google.com/drive/u/0/my-drive)](https://drive.google.com/file/d/15vo3PDmMiTlwPSlTgD1ccqAU01AGY8fM/view?usp=sharing)
