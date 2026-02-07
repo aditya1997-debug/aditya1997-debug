@@ -20,7 +20,7 @@
 
 ---
 
-## One-line Intro
+## Intro
 Backend Developer | Node.js, MongoDB | EdTech platforms | 2+ years experience
 
 ---
